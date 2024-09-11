@@ -1,7 +1,12 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "expo1",
     "slug": "expo1",
+=======
+    "name": "activity1",
+    "slug": "activity1",
+>>>>>>> b4dbf4994404574bd6d7ee415518d29d23c2eea2
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
